@@ -1,5 +1,6 @@
 # Livro de Receitas :woman_cook:
 
-Olá! Bem-vindx ao meu livro de receitas :happy:
+Olá! Seja bem-vindx ao meu livro de receitas :happy:
 
 - Strogonoff de frango
+- Pavê
